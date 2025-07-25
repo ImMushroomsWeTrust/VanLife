@@ -24,16 +24,16 @@ This is a pet project developed to deepen my understanding of modern web develop
   - Simple, mobile-friendly layout.
 
 ## Project Structure
-van-rental-app/
-├── src/
-│   ├── components/         # Reusable components (e.g., Layout, AuthRequired)
-│   ├── pages/             # Page components (e.g., Vans, VanDetail, Host/*)
-│   ├── api.js             # API mocks with static data
-│   ├── vans.json          # Static data for vans and users
-│   ├── index.jsx          # Main app entry point
-│   └── ...                # Other assets and styles
-├── package.json           # Project dependencies and scripts
-└── README.md              # This file
+van-rental-app/  
+├── src/   
+│   ├── components/         # Reusable components (e.g., Layout, AuthRequired)  
+│   ├── pages/             # Page components (e.g., Vans, VanDetail, Host/*)  
+│   ├── api.js             # API mocks with static data  
+│   ├── vans.json          # Static data for vans and users  
+│   ├── index.jsx          # Main app entry point  
+│   └── ...                # Other assets and styles  
+├── package.json           # Project dependencies and scripts  
+└── README.md              # This file  
 
 ## Future Improvements
 - **Real API**: Integrate with a backend server (e.g., Node.js with Express) instead of static JSON.
