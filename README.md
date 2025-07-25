@@ -35,6 +35,21 @@ van-rental-app/
 ├── package.json           # Project dependencies and scripts  
 └── README.md              # This file  
 
+## Installation and Running Locally
+To run this project locally on your machine, follow these steps:
+- **Clone the Repository**:
+git clone https://github.com/<your-username>/van-rental-app.git  
+cd van-rental-app  
+  
+- **Install Dependencies:**
+npm install  
+
+- **Start the Development Server:**
+npm start
+
+- **Build for production**
+npm run build
+
 ## Future Improvements
 - **Real API**: Integrate with a backend server (e.g., Node.js with Express) instead of static JSON.
 - **Better Authentication**: Implement JWT tokens and a real login API.
